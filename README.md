@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Vishwanath Singh (@Cruzh3r2107)  
+# 👋 Hi, I am @Cruzh3r2107
 
 Welcome to my GitHub profile!  
 
