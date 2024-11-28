@@ -1,7 +1,40 @@
-👋 Hi, I’m @Cruzh3r2107.
-👀 I’m interested in Embedded Systems, Cyber-Physical Systems, and IoT. I enjoy working on firmware development and system design for autonomous and connected devices.
-🌱 I’m currently learning FPGA-based Machine Learning optimization and Cyber-Physical System Design as part of my Master’s program at the University of California, Irvine.
-💞️ I’m looking to collaborate on projects related to Embedded Systems, Machine Learning on Edge Devices, and IoT solutions.
-📫 How to reach me: vshwnth.sngh@gmail.com.
-😄 Pronouns: He/Him.
-⚡ Fun fact: I developed a portable ESP32-based heart monitoring system to detect cardiac arrhythmias using real-time ECG data analysis!
+# 👋 Hi, I’m Vishwanath Singh (@Cruzh3r2107)  
+
+Welcome to my GitHub profile!  
+
+---
+
+## 👀 About Me  
+I'm passionate about **Embedded Systems**, **Cyber-Physical Systems**, and **IoT**. My work revolves around firmware development, system design, and enabling autonomous and connected devices. I enjoy exploring innovative solutions and pushing the boundaries of technology.  
+
+---
+
+## 🌱 Current Learning  
+I'm currently pursuing my **Master's in Embedded and Cyber-Physical Systems** at the **University of California, Irvine**. My focus areas include:  
+- FPGA-based Machine Learning optimization  
+- Cyber-Physical System Design  
+- Embedded Systems Modeling and Control  
+
+---
+
+## 💞️ Collaboration  
+I'm eager to collaborate on projects related to:  
+- **Embedded Systems Development**  
+- **Machine Learning on Edge Devices**  
+- **IoT Solutions**  
+
+---
+
+## 📫 How to Reach Me  
+📧 Email: [vshwnth.sngh@gmail.com](mailto:vshwnth.sngh@gmail.com)  
+💼 LinkedIn: [linkedin.com/in/vishwanath-singh](https://linkedin.com/in/vishwanath-singh)  
+
+---
+
+## ⚡ Fun Fact  
+I developed a portable **ESP32-based heart monitoring system** that detects cardiac arrhythmias by analyzing ECG data in real time! 🚑❤️  
+
+---
+
+Thank you for visiting! Feel free to explore my repositories, connect with me, or discuss exciting opportunities! 😄
+
